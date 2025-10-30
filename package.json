@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-backend-template",
+  "version": "1.0.0",
+  "description": "Boilerplate nodejs backend code for direct work without spending too much time on basic setup. JUST CLONE THIS BOILERPLATE CODE AND START CODING.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
